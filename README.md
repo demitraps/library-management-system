@@ -9,7 +9,7 @@ Github repo: https://github.com/demitraps/library-management-system
 
 **Front-end:** Angular 17 with Material Design components, TypeScript, Sass
 
-**Back-end:** ASP.NET Core 6, Dapper ORM, JWT Authentication
+**Back-end:** ASP.NET Core 6, Dapper ORM, JWT Authentication, MSSQLServerExpress
 
 
 ## Features
