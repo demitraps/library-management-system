@@ -1,0 +1,33 @@
+@import "../../theme.scss";
+
+mat-toolbar {
+  background-color: $light-primary-500 !important;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+h1,
+h2 {
+  margin: 0;
+  font-size: 1.1rem !important;
+  font-weight: 400 !important;
+}
+
+h1 {
+  margin-left: 2.1rem !important;
+}
+
+h2 {
+  margin-right: 2.1rem !important;
+
+  a {
+    color: $light-primary-100 !important;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: white !important;
+  }
+}

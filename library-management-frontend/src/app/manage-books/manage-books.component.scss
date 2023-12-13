@@ -1,0 +1,48 @@
+@import "../../theme.scss";
+
+:host {
+  display: flex;
+  width: 70%;
+  gap: 2rem;
+  margin: 5rem auto;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+mat-card-title {
+  margin-bottom: 1rem;
+}
+
+mat-card-subtitle {
+  padding: 1rem 0;
+  color: $light-accent-A200;
+}
+
+.add {
+  form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: flex-start;
+
+    button {
+      width: 200px;
+      height: 50px;
+    }
+  }
+}
+
+.delete {
+  mat-card-content {
+    margin: 0;
+    width: 400px;
+    mat-form-field {
+      width: 100%;
+    }
+  }
+  mat-card-actions {
+    button {
+      width: 100%;
+    }
+  }
+}

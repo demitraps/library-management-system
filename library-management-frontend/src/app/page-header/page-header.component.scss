@@ -1,0 +1,29 @@
+@import "../../theme.scss";
+
+:host {
+  display: block;
+  z-index: 3;
+}
+
+h1 {
+  font-size: 1.4rem !important;
+  letter-spacing: 0.2rem !important;
+}
+
+mat-toolbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: $light-primary-500 !important;
+
+  .user-info {
+    display: flex;
+    align-items: center;
+    font-weight: 500 !important;
+    span {
+      margin-right: 0.5rem;
+    }
+    mat-icon {
+      transform: scale(1.4);
+    }
+  }
+}

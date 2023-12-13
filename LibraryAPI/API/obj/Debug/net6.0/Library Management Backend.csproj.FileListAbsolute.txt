@@ -1,0 +1,40 @@
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Library Management Backend.exe
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Library Management Backend.deps.json
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Library Management Backend.runtimeconfig.json
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Library Management Backend.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Library Management Backend.pdb
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.csproj.AssemblyReference.cache
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.AssemblyInfoInputs.cache
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.AssemblyInfo.cs
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.csproj.CoreCompileInputs.cache
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\staticwebassets\msbuild.Library Management Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.Library Management Backend.props
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library Management Backend.props
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library Management Backend.props
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\scopedcss\bundle\Library Management Backend.styles.css
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.csproj.CopyComplete
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\refint\Library Management Backend.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.pdb
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\Library Management Backend.genruntimeconfig.cache
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\obj\Debug\net6.0\ref\Library Management Backend.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\Dapper.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\demi9\OneDrive\Desktop\LibraryAPI\Library Management Backend\bin\Debug\net6.0\System.Web.Cors.dll
